@@ -1,0 +1,38 @@
+.form-item {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 5px 0;
+    width: 70%;
+    margin: 15px 0;
+}
+
+.Page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+.form-input {
+    background-color: #ecf0f3;
+    padding: 15px;
+    font-size: larger;
+    border: none;
+    border-radius: 15px;
+    box-shadow: inset 10px 10px 10px #cbced1, inset -10px -10px 10px #fff;
+}
+
+.Form {
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 500px;
+
+    background-color: #ecf0f3;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px #cbced1, -10px -10px 10px #fff;
+}
